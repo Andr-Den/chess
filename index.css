@@ -2,5 +2,10 @@
 
 @import url(./blocks/page/page.css);
 
+@import url(./blocks/heading/heading.css);
+@import url(./blocks/heading/__container/heading__container.css);
+@import url(./blocks/heading/__title/heading__title.css);
+@import url(./blocks/heading/__title/_red/heading__title_red.css);
+
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__text/footer__text.css)

@@ -1,0 +1,8 @@
+.heading__title {
+  font-family: "Merriweather", sans-serif;
+  color: #313131;
+  font-size: 36px;
+  font-weight: 400;
+  text-transform: uppercase;
+  max-width: 764px;
+}
