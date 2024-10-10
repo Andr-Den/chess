@@ -52,3 +52,25 @@
   src: url(./GolosText-Bold.woff2) format("woff2"),
        url(./GolosText-Bold.woff) format("woff"),
 }
+
+@font-face {
+  font-family: 'Merriweather';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./Merriweather-Regular.woff2) format("woff2"),
+       url(./Merriweather-Regular.woff) format("woff"),
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-style:  normal;
+  font-weight: bold;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./Merriweather-Bold.woff2) format("woff2"),
+       url(./Merriweather-Black.woff) format("woff"),
+}
